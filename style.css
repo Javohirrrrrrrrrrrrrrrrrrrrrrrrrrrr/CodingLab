@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Revalia&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Revalia&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: Cascadia Code;
     text-align: center;
     background: gray;
 }
@@ -15,7 +15,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-family: Rubik;
 }
 
 nav .ul {
@@ -42,7 +41,6 @@ nav .ul li a:hover {
     color: white;
     font-size: 24px;
     font-size: 2vw;
-    font-family: Montserrat;
 }
 
 .buttons {
