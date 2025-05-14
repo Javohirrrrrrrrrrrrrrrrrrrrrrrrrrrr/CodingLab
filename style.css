@@ -47,6 +47,24 @@ nav .ul li a:hover {
     margin-top: 20px;
 }
 
+.btn:visited {
+    background-color: dodgerblue;
+}
+
+.btn:hover {
+    background-color: lightgreen;
+}
+
+.btn:active {
+    background-color: white;
+    color: black;
+}
+
+.subscribe:active {
+    background-color: gray;
+    color: white;
+}
+
 .btn {
     padding: 10px 20px;
     border: 2px solid white;
@@ -120,4 +138,3 @@ li:hover ul li a:link {
     display: block;
     margin-left: -30px;
 }
-
